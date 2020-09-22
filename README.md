@@ -20,6 +20,8 @@ wwdc系列后续只分享相对通用的东西，iOS独特的东西会考虑以�
 
 ## 开发者层面的变化
 
+今天只展开介绍SwiftUI，widgets以及app clips
+
 ### Swift UI
 
 + 简介
