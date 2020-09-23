@@ -17,10 +17,25 @@ wwdc系列后续只分享相对通用的东西，iOS独特的东西会考虑以�
 + 画中画
 + Siri不再占满全屏
 + 翻译软件
++ 信息应用
++ 地图应用
++ CarPlay
++ 轻应用（App Clips）
 
 ### iPadOS14
 
-### macOS
++ 侧边栏
++ 很多应用不再全屏
++ 搜索体验
++ apple pencil
+
+### macOS Bug Sur
+
++ 图标风格拟物化
++ 通知栏重做
++ widgets
++ safari
++ 工具栏优化
 
 ### 轻应用
 
