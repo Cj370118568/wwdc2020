@@ -12,15 +12,23 @@ wwdc系列后续只分享相对通用的东西，iOS独特的东西会考虑以�
 
 ### iOS14
 
++ app资源库（App Library）
++ 屏幕小组件
++ 画中画
++ Siri不再占满全屏
++ 翻译软件
+
 ### iPadOS14
 
 ### macOS
 
 ### 轻应用
 
+### 隐私
+
 ## 开发者层面的变化
 
-今天只展开介绍SwiftUI，widgets以及app clips
+今天只展开介绍SwiftUI，小组件（widget）以及轻应用（app clips）
 
 ### Swift UI
 
@@ -35,14 +43,22 @@ wwdc系列后续只分享相对通用的东西，iOS独特的东西会考虑以�
     + 用CommandMenu支持快捷键
     + SwiftUI应用跨平台模板
   + widgets
+    + 用SwiftUI可以构建iOS、macOS以及iPadOS的小组件
+    + 可以用SwiftUI构建watchOS自定义的复杂组件
   + 列表
+    + 新增对大纲模式的封装
   + 工具栏和控件
+    + 对tollbar进行了封装
+    + 新增一些控件
   + 新风格
+    + 转场动画优化
   + 系统交互
+
+### widget
 
 ## 从变化看趋势
 
-### 隐私
+### 隐私监控
 
 ### 跨平台
 
