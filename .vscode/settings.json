@@ -1,0 +1,8 @@
+{
+  "customizeUI.stylesheet": {
+    "[title='Split Editor Right (⌘\\\\)']": "display: none !important;",
+    "[title='Open Preview to the Side']": "display: none !important;",
+    "[title='Open Changes']": "display: none !important;",
+    
+  }
+}
